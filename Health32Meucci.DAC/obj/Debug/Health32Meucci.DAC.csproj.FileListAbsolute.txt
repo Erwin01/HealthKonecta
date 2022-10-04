@@ -1,0 +1,24 @@
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Build\Health32Meucci.DAC.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Build\Health32Meucci.DAC.pdb
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.csprojResolveAssemblyReference.cache
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Build\Health32Meucci.DAC.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Build\Health32Meucci.DAC.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.pdb
+C:\Users\Erwin\Desktop\Build\Health32Meucci.DAC.dll
+C:\Users\Erwin\Desktop\Build\Health32Meucci.DAC.pdb
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.csproj.AssemblyReference.cache
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.csproj.CoreCompileInputs.cache
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.csproj.CopyComplete
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.dll
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.pdb
+D:\Desarrollos viejos\Build\Health32Meucci.DAC.dll
+D:\Desarrollos viejos\Build\Health32Meucci.DAC.pdb
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.csproj.AssemblyReference.cache
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.csproj.CoreCompileInputs.cache
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.csproj.CopyComplete
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.dll
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.DAC\obj\Debug\Health32Meucci.DAC.pdb
