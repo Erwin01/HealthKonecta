@@ -1,0 +1,80 @@
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Build\ServiceMetadataConfig_colombia.xml
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Build\MetroFramework.txt
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Build\packages.config
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Build\Health32Meucci.Front.exe.config
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Build\Health32Meucci.Front.exe
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Build\Health32Meucci.Front.pdb
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csprojResolveAssemblyReference.cache
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.FrmBuscarPaciente.resources
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.FrmCrearPaciente.resources
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.Principal.resources
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.Properties.Resources.resources
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.GenerateResource.Cache
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.exe
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Build\Health32Meucci.Front.exe.config
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.exe
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Build\ServiceMetadataConfig_colombia.xml
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Build\MetroFramework.txt
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Build\packages.config
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Build\Health32Meucci.Front.exe
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Build\Health32Meucci.Front.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.FrmBuscarPaciente.resources
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.FrmCrearPaciente.resources
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.Principal.resources
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.Properties.Resources.resources
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.GenerateResource.Cache
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Build\App.config
+C:\Users\Erwin\Desktop\Build\ServiceMetadataConfig_colombia.xml
+C:\Users\Erwin\Desktop\Build\MetroFramework.txt
+C:\Users\Erwin\Desktop\Build\packages.config
+C:\Users\Erwin\Desktop\Build\App.config
+C:\Users\Erwin\Desktop\Build\Health32Meucci.Front.exe.config
+C:\Users\Erwin\Desktop\Build\Health32Meucci.Front.exe
+C:\Users\Erwin\Desktop\Build\Health32Meucci.Front.pdb
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.AssemblyReference.cache
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.FrmBuscarPaciente.resources
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.FrmCrearPaciente.resources
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.Principal.resources
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.Properties.Resources.resources
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.GenerateResource.cache
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.CoreCompileInputs.cache
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.CopyComplete
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.exe
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.pdb
+D:\Desarrollos viejos\Build\ServiceMetadataConfig_colombia.xml
+D:\Desarrollos viejos\Build\MetroFramework.txt
+D:\Desarrollos viejos\Build\packages.config
+D:\Desarrollos viejos\Build\App.config
+D:\Desarrollos viejos\Build\Health32Meucci.Front.exe.config
+D:\Desarrollos viejos\Build\Health32Meucci.Front.exe
+D:\Desarrollos viejos\Build\Health32Meucci.Front.pdb
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.AssemblyReference.cache
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.FrmBuscarPaciente.resources
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.FrmCrearPaciente.resources
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.Principal.resources
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.Properties.Resources.resources
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.GenerateResource.cache
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.CoreCompileInputs.cache
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.CopyComplete
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.exe
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.pdb
+D:\Videos Development 2022\Desarrollos viejos\Build\ServiceMetadataConfig_colombia.xml
+D:\Videos Development 2022\Desarrollos viejos\Build\MetroFramework.txt
+D:\Videos Development 2022\Desarrollos viejos\Build\packages.config
+D:\Videos Development 2022\Desarrollos viejos\Build\App.config
+D:\Videos Development 2022\Desarrollos viejos\Build\Health32Meucci.Front.exe.config
+D:\Videos Development 2022\Desarrollos viejos\Build\Health32Meucci.Front.exe
+D:\Videos Development 2022\Desarrollos viejos\Build\Health32Meucci.Front.pdb
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.AssemblyReference.cache
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.FrmBuscarPaciente.resources
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.FrmCrearPaciente.resources
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.Principal.resources
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.Properties.Resources.resources
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.GenerateResource.cache
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.CoreCompileInputs.cache
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.csproj.CopyComplete
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.exe
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\Health32Meucci.Front\obj\Debug\Health32Meucci.Front.pdb
