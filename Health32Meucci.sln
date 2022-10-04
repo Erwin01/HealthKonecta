@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Health32Meucci.Front", "Health32Meucci.Front\Health32Meucci.Front.csproj", "{38A9A495-C755-46B2-A7AE-F3F08C4A3770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Health32Meucci.DAC", "Health32Meucci.DAC\Health32Meucci.DAC.csproj", "{B57D6F9B-A2AC-4F5E-ABB7-8C2912091418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Health32Meucci.Common", "Health32Meucci.Common\Health32Meucci.Common.csproj", "{4AFC133E-3C12-42CE-940A-561EE4BA5932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Health32Meucci.SVC", "Health32Meucci.SVC\Health32Meucci.SVC.csproj", "{9924EB88-98D3-4712-BA52-1CF9B0395E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMeucci", "TestMeucci\TestMeucci.csproj", "{89E308E7-403D-4A12-A672-24C0D9B13328}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{65A80914-530A-4837-BFEA-0E02D7E72E37}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://meuccicolombia.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Health32Meucci.Common\\Health32Meucci.Common.csproj
+		SccProjectName1 = Health32Meucci.Common
+		SccLocalPath1 = Health32Meucci.Common
+		SccProjectUniqueName2 = Health32Meucci.DAC\\Health32Meucci.DAC.csproj
+		SccProjectName2 = Health32Meucci.DAC
+		SccLocalPath2 = Health32Meucci.DAC
+		SccProjectUniqueName3 = Health32Meucci.Front\\Health32Meucci.Front.csproj
+		SccProjectName3 = Health32Meucci.Front
+		SccLocalPath3 = Health32Meucci.Front
+		SccProjectUniqueName4 = Health32Meucci.SVC\\Health32Meucci.SVC.csproj
+		SccProjectName4 = Health32Meucci.SVC
+		SccLocalPath4 = Health32Meucci.SVC
+		SccProjectUniqueName5 = TestMeucci\\TestMeucci.csproj
+		SccProjectName5 = TestMeucci
+		SccLocalPath5 = TestMeucci
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A9A495-C755-46B2-A7AE-F3F08C4A3770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A9A495-C755-46B2-A7AE-F3F08C4A3770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A9A495-C755-46B2-A7AE-F3F08C4A3770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A9A495-C755-46B2-A7AE-F3F08C4A3770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57D6F9B-A2AC-4F5E-ABB7-8C2912091418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57D6F9B-A2AC-4F5E-ABB7-8C2912091418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57D6F9B-A2AC-4F5E-ABB7-8C2912091418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57D6F9B-A2AC-4F5E-ABB7-8C2912091418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AFC133E-3C12-42CE-940A-561EE4BA5932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFC133E-3C12-42CE-940A-561EE4BA5932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFC133E-3C12-42CE-940A-561EE4BA5932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFC133E-3C12-42CE-940A-561EE4BA5932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9924EB88-98D3-4712-BA52-1CF9B0395E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9924EB88-98D3-4712-BA52-1CF9B0395E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9924EB88-98D3-4712-BA52-1CF9B0395E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9924EB88-98D3-4712-BA52-1CF9B0395E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E308E7-403D-4A12-A672-24C0D9B13328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E308E7-403D-4A12-A672-24C0D9B13328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E308E7-403D-4A12-A672-24C0D9B13328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E308E7-403D-4A12-A672-24C0D9B13328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
