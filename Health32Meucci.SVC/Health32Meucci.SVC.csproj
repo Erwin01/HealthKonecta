@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9924EB88-98D3-4712-BA52-1CF9B0395E82}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Health32Meucci.SVC</RootNamespace>
+    <AssemblyName>Health32Meucci.SVC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Build\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Fwk.Bases">
+      <HintPath>..\Librerias\Fwk.Bases.dll</HintPath>
+    </Reference>
+    <Reference Include="Fwk.Bases.Connector">
+      <HintPath>..\Librerias\Fwk.Bases.Connector.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\GlobalAssemblyInfo\GlobalAssemblyInfo.cs">
+      <Link>Properties\GlobalAssemblyInfo.cs</Link>
+    </Compile>
+    <Compile Include="ActualizarMutualPacienteSVC.cs" />
+    <Compile Include="ActualizarPacienteISVC.cs" />
+    <Compile Include="ActualizarPacienteSVC.cs" />
+    <Compile Include="BuscarMutualISVC.cs" />
+    <Compile Include="BuscarMutualSVC.cs" />
+    <Compile Include="BuscarPacienteSVC.cs" />
+    <Compile Include="BuscarPacienteISVC.cs" />
+    <Compile Include="BuscarParamISVC.cs" />
+    <Compile Include="BuscarParamSVC.cs" />
+    <Compile Include="CambiarEstadoPacienteSVC.cs" />
+    <Compile Include="CambiarEstadoPacienteISVC.cs" />
+    <Compile Include="ActualizarMutualPacienteISVC.cs" />
+    <Compile Include="InsertarMutualPacienteISVC.cs" />
+    <Compile Include="InsertarMutualPacienteSVC.cs" />
+    <Compile Include="ValidarDocumentoISVC.cs" />
+    <Compile Include="CrearPacienteISVC.cs" />
+    <Compile Include="CrearPacienteSVC.cs" />
+    <Compile Include="ObtenerPacienteISVC.cs" />
+    <Compile Include="ObtenerPacienteSVC.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValidarDocumentoSVC.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Health32Meucci.Common\Health32Meucci.Common.csproj">
+      <Project>{4afc133e-3c12-42ce-940a-561ee4ba5932}</Project>
+      <Name>Health32Meucci.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Health32Meucci.DAC\Health32Meucci.DAC.csproj">
+      <Project>{b57d6f9b-a2ac-4f5e-abb7-8c2912091418}</Project>
+      <Name>Health32Meucci.DAC</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
