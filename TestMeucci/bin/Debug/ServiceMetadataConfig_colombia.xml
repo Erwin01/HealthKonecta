@@ -1,0 +1,141 @@
+<ServiceConfigurationCollection>
+  <ServiceConfiguration name="CrearPacienteSVC">
+    <CreatedUserName>Meucci</CreatedUserName>
+    <CreatedDateTime>2016-07-28T18:40:29.5659301-03:00</CreatedDateTime>
+    <Handler>Health32Meucci.SVC.CrearPacienteSVC, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>Health32Meucci.ISVC.CrearPacienteReq, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>Health32Meucci.ISVC.CrearPacienteRes, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>paciente</ApplicationId>
+  </ServiceConfiguration>
+  <ServiceConfiguration name="BuscarParamSVC">
+    <CreatedUserName>Meucci</CreatedUserName>
+    <CreatedDateTime>2016-07-28T18:40:29.5659301-03:00</CreatedDateTime>
+    <Handler>Health32Meucci.SVC.BuscarParamSVC, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>Health32Meucci.ISVC.BuscarParamReq, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>Health32Meucci.ISVC.BuscarParamRes, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>paciente</ApplicationId>
+  </ServiceConfiguration>
+  <ServiceConfiguration name="BuscarPacienteSVC">
+    <CreatedUserName>Meucci</CreatedUserName>
+    <CreatedDateTime>2016-07-28T18:40:29.5659301-03:00</CreatedDateTime>
+    <Handler>Health32Meucci.SVC.BuscarPacienteSVC, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>Health32Meucci.ISVC.BuscarPacienteReq, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>Health32Meucci.ISVC.BuscarPacienteRes, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>paciente</ApplicationId>
+  </ServiceConfiguration>
+  
+  <ServiceConfiguration name="ObtenerPacienteSVC">
+    <CreatedUserName>Meucci</CreatedUserName>
+    <CreatedDateTime>2016-07-28T18:40:29.5659301-03:00</CreatedDateTime>
+    <Handler>Health32Meucci.SVC.ObtenerPacienteSVC, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>Health32Meucci.ISVC.ObtenerPacienteReq, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>Health32Meucci.ISVC.ObtenerPacienteRes, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>paciente</ApplicationId>
+  </ServiceConfiguration>
+  
+  <ServiceConfiguration name="ActualizarPacienteSVC">
+    <CreatedUserName>Meucci</CreatedUserName>
+    <CreatedDateTime>2016-07-28T18:40:29.5659301-03:00</CreatedDateTime>
+    <Handler>Health32Meucci.SVC.ActualizarPacienteSVC, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>Health32Meucci.ISVC.ActualizarPacienteReq, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>Health32Meucci.ISVC.ActualizarPacienteRes, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>paciente</ApplicationId>
+  </ServiceConfiguration>
+
+  <ServiceConfiguration name="ValidarDocumentoSVC">
+    <CreatedUserName>Meucci</CreatedUserName>
+    <CreatedDateTime>2016-07-28T18:40:29.5659301-03:00</CreatedDateTime>
+    <Handler>Health32Meucci.SVC.ValidarDocumentoSVC, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>Health32Meucci.ISVC.ValidarDocumentoReq, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>Health32Meucci.ISVC.ValidarDocumentoRes, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>paciente</ApplicationId>
+  </ServiceConfiguration>
+
+  <ServiceConfiguration name="CambiarEstadoPacienteSVC">
+    <CreatedUserName>Meucci</CreatedUserName>
+    <CreatedDateTime>2016-07-28T18:40:29.5659301-03:00</CreatedDateTime>
+    <Handler>Health32Meucci.SVC.CambiarEstadoPacienteSVC, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>Health32Meucci.ISVC.CambiarEstadoPacienteReq, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>Health32Meucci.ISVC.CambiarEstadoPacienteRes, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>paciente</ApplicationId>
+  </ServiceConfiguration>
+
+  <ServiceConfiguration name="BuscarMutualSVC">
+    <CreatedUserName>Meucci</CreatedUserName>
+    <CreatedDateTime>2016-07-28T18:40:29.5659301-03:00</CreatedDateTime>
+    <Handler>Health32Meucci.SVC.BuscarMutualSVC, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>Health32Meucci.ISVC.BuscarMutualReq, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>Health32Meucci.ISVC.BuscarMutualRes, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>paciente</ApplicationId>
+  </ServiceConfiguration>
+
+  <ServiceConfiguration name="BuscarMutualPacienteSVC">
+    <CreatedUserName>Meucci</CreatedUserName>
+    <CreatedDateTime>2016-07-28T18:40:29.5659301-03:00</CreatedDateTime>
+    <Handler>Health32Meucci.SVC.BuscarMutualPacienteSVC, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>Health32Meucci.ISVC.BuscarMutualPacienteReq, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>Health32Meucci.ISVC.BuscarMutualPacienteRes, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>paciente</ApplicationId>
+  </ServiceConfiguration>
+  
+  <ServiceConfiguration name="InsertarMutualPacienteSVC">
+    <CreatedUserName>Meucci</CreatedUserName>
+    <CreatedDateTime>2016-07-28T18:40:29.5659301-03:00</CreatedDateTime>
+    <Handler>Health32Meucci.SVC.InsertarMutualPacienteSVC, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>Health32Meucci.ISVC.InsertarMutualPacienteReq, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>Health32Meucci.ISVC.InsertarMutualPacienteRes, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>paciente</ApplicationId>
+  </ServiceConfiguration>
+  <ServiceConfiguration name="ActualizarMutualPacienteSVC">
+    <CreatedUserName>Meucci</CreatedUserName>
+    <CreatedDateTime>2016-07-28T18:40:29.5659301-03:00</CreatedDateTime>
+    <Handler>Health32Meucci.SVC.ActualizarMutualPacienteSVC, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>Health32Meucci.ISVC.ActualizarMutualPacienteReq, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>Health32Meucci.ISVC.ActualizarMutualPacienteRes, Health32Meucci.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>paciente</ApplicationId>
+  </ServiceConfiguration>
+</ServiceConfigurationCollection>

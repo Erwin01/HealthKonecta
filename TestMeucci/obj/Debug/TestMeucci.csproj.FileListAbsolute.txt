@@ -1,0 +1,127 @@
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\ServiceMetadataConfig_colombia.xml
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.txt
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\packages.config
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.dll.config
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.pdb
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Common.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.DAC.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Front.exe
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.SVC.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.Design.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Common.pdb
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.DAC.pdb
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Front.pdb
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.SVC.pdb
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.xml
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.xml
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.XmlSerializers.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.csprojResolveAssemblyReference.cache
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\ServiceMetadataConfig_colombia.xml
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.txt
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\packages.config
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\App.config
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.dll.config
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Common.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.DAC.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Front.exe
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.SVC.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.Design.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Common.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.DAC.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Front.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.SVC.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.xml
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.xml
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.XmlSerializers.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.pdb
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\ServiceMetadataConfig_colombia.xml
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.txt
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\packages.config
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\App.config
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.dll.config
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.pdb
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Common.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.DAC.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Front.exe
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.SVC.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.Design.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.Fonts.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Common.pdb
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.DAC.pdb
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Front.pdb
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Front.exe.config
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.SVC.pdb
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.xml
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.xml
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.XmlSerializers.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.csproj.AssemblyReference.cache
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.csproj.CoreCompileInputs.cache
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.csproj.CopyComplete
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.dll
+D:\Desarrollos viejos\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.pdb
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\ServiceMetadataConfig_colombia.xml
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.txt
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\packages.config
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\App.config
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.dll.config
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\TestMeucci.pdb
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Common.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.DAC.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Front.exe
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.SVC.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.Design.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\MetroFramework.Fonts.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Newtonsoft.Json.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Common.pdb
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.DAC.pdb
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Front.pdb
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.Front.exe.config
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Health32Meucci.SVC.pdb
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.xml
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.xml
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\bin\Debug\Fwk.Bases.Connector.XmlSerializers.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.csproj.AssemblyReference.cache
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.csproj.CoreCompileInputs.cache
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.csproj.CopyComplete
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.dll
+D:\Videos Development 2022\Desarrollos viejos\Health32Meucci\TestMeucci\obj\Debug\TestMeucci.pdb
