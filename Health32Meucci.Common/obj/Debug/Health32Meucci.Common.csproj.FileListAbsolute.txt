@@ -1,0 +1,23 @@
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Build\Health32Meucci.Common.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Build\Health32Meucci.Common.pdb
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.dll
+C:\Users\erwin.parales\Documents\PROYECTO MEUCCI\MeucciColombia\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Build\Health32Meucci.Common.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Build\Health32Meucci.Common.pdb
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.dll
+C:\Users\ERWIN\Documents\DOCUMENTOS PERSONALES\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.pdb
+C:\Users\Erwin\Desktop\Build\Health32Meucci.Common.dll
+C:\Users\Erwin\Desktop\Build\Health32Meucci.Common.pdb
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.csproj.AssemblyReference.cache
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.csproj.CoreCompileInputs.cache
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.csproj.CopyComplete
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.dll
+C:\Users\Erwin\Desktop\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.pdb
+D:\Desarrollos viejos\Build\Health32Meucci.Common.dll
+D:\Desarrollos viejos\Build\Health32Meucci.Common.pdb
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.csproj.AssemblyReference.cache
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.csproj.CoreCompileInputs.cache
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.csproj.CopyComplete
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.dll
+D:\Desarrollos viejos\Health32Meucci\Health32Meucci.Common\obj\Debug\Health32Meucci.Common.pdb
